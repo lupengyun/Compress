@@ -17,3 +17,6 @@
  #### 参考
  > * https://blog.csdn.net/a992036795/article/details/53814178
  > * https://www.jianshu.com/p/5022c0457c61
+ 
+ ##### libjpeg 官方使用代码示例
+ > * https://raw.githubusercontent.com/libjpeg-turbo/libjpeg-turbo/master/example.txt
